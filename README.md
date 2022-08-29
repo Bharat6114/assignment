@@ -18,7 +18,7 @@ python manage.py runserver
 # Make migrations(if required)
 python manage.py makemigrations
 python manage.py migrate
-#for superadmin
+6.for superadmin
 urls:localhost:8000/admin/
 name:bharat
 password:9848826114
