@@ -11,8 +11,7 @@ pipenv shell
 
 4. Install requirements
 pip install -r requirements.txt
-5. Run the server
-# Run the server
+5. To Run the server
 python manage.py runserver
 
 6. Make migrations(if required)
