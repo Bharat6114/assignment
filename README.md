@@ -9,7 +9,7 @@ pip install pipenv
 #to active enviroment
 pipenv shell
 
-4. Install requirementsP:
+4. Install requirements:
 pip install -r requirements.txt
 5. To Run the server:
 python manage.py runserver
