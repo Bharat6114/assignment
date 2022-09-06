@@ -1,5 +1,5 @@
 Prerequisites:
-1. Install Python
+1. Install Python:
 Install python-3.10.5 and python-pip. Follow the steps from the below reference document based on your Operating System. Reference: https://docs.python-guide.org/starting/installation/
 
 2. Clone git repository
